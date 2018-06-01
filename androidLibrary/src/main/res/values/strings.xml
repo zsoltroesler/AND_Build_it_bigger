@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">androidLibrary</string>
+    <string name="title">Delicious Joke</string>
+    <string name="error_message">Error in retrieving joke</string>
+</resources>

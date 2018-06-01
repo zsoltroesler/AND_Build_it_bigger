@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Build it Bigger</string>
+    <string name="instructions">Press the button for a delicious joke!</string>
+    <string name="button_text">Tell Joke</string>
+    <string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="error_message">Error in retrieving result</string>
+    <string name="interstitial_loading">The interstitial was not loaded yet.</string>
+    <string name="interstitial_id">ca-app-pub-3940256099942544~3347511713</string>
+    <string name="interstitial_unit_id">ca-app-pub-3940256099942544/1033173712</string>
+
+</resources>
